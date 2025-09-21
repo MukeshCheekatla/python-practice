@@ -5,8 +5,10 @@
 
 
 def main():
-# Your program goes here I
+
+
 if __name__ == '__main__':
+    main()
     
 
 
